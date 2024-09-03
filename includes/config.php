@@ -1,9 +1,9 @@
 ﻿<?php 
 // DB credentials.
-define('DB_HOST','fdb15.eohost.com');
-define('DB_USER','2520448_armentum');
-define('DB_PASS','963852asd');
-define('DB_NAME','2520448_armentum');
+define('DB_HOST','localhost');
+define('DB_USER','root');
+define('DB_PASS','');
+define('DB_NAME','armentum');
 // Establish database connection.
 try
 {
